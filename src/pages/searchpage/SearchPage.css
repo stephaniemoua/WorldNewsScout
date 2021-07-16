@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,600&family=Poppins&family=Roboto:wght@400;700&display=swap');
+
+
+
+.searchPath{
+    display: flex;
+    align-items: center; 
+    margin: 2em 0 1em 0;
+    padding-left: 60px;
+}
+
+.path_topic {
+    font-style: italic;
+    font-family: 'lora', sans-serif;
+}
+
+
+.arrow_icon{
+    width: auto;
+    align-content: center;
+    margin: 10px;
+}
+
+.articles{
+    display: inline-block;
+    background-color: white;
+}
+
+.country_list{
+    background-color: white;
+    border-right: 6px solid black;
+    height: 100%;
+    right: 20%;
+}
+
+.list__item{
+    display: flex;
+    /* margin-left: 30px; */
+    padding: 20px 0px 20px 30px;
+    background-color: white;
+}
+
+.result_section{
+    background-color: white;
+    display: flex;
+}
+

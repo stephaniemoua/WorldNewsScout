@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,600&family=Poppins&family=Roboto:wght@400;700&display=swap');
+
+/* 
+Lora - headlines, topics 
+Poppins - paragraph 
+Roboto - site headers  */
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #10316B;
+}
+
+div{
+  background-color: white;
+}
+
+.container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 300px;
+  border: 1px solid steelblue;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+h1, h2, h3, h4{
+  background-color: white;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  font-family: 'Poppins', serif;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  background-color: #10316B;
+}
+
+/* 
+.btn {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+ */

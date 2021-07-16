@@ -1,0 +1,22 @@
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0 1.5rem;
+  }
+  
+  svg {
+    display: block;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color: white;
+  }
+
+  .map {
+    margin: 30px;
+  }

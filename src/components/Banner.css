@@ -1,0 +1,31 @@
+.banner {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky; 
+    top: 0;
+    background-color: #10316B;
+    color: white;
+}
+
+.date-time{
+    display:flex;
+    font-size: 14px;
+    padding: 10px 30px;
+}
+
+.about-link{
+    display:flex;
+    color: white;
+    font-size: 16px;
+    padding: 10px 30px;
+    background-color: #10316B;
+}
+
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #FDBE34;
+}
